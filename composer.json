@@ -1,0 +1,15 @@
+{
+    "name": "arthu/interface-relacionamentos",
+    "autoload": {
+        "psr-4": {
+            "classes\\":"classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arthur",
+            "email": "aprendizadoarthur@gmail.com"
+        }
+    ],
+    "require": {}
+}
