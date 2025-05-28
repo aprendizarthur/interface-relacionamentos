@@ -2,7 +2,8 @@
     "name": "arthu/interface-relacionamentos",
     "autoload": {
         "psr-4": {
-            "classes\\":"classes/"
+            "classes\\":"classes/",
+            "interfaces\\":"interfaces/"
         }
     },
     "authors": [
